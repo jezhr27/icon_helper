@@ -1,7 +1,7 @@
 part of icon_helper;
 
-class IconsHelper {
-  static Map<String, IconData> iconMap = {
+class MaterialIconHelper {
+  static Map<String, IconData> map = {
     'ac_unit': Icons.ac_unit,
     'ac_unit_outlined': Icons.ac_unit_outlined,
     'ac_unit_rounded': Icons.ac_unit_rounded,

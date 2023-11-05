@@ -1,7 +1,7 @@
 part of icon_helper;
 
 class SymbolsIconHelper {
-  static Map<String, IconData> mapIcon = {
+  static Map<String, IconData> map = {
     "ten_k": Symbols.ten_k,
     "ten_k_rounded": Symbols.ten_k_rounded,
     "ten_k_sharp": Symbols.ten_k_sharp,
